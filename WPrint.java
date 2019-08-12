@@ -2,6 +2,10 @@ package com.company;
 
 import java.util.Scanner;
 
+/*
+/ печать буквы w определенного размера
+*/
+
 public class WPrint
 {
     public static void main(String[] args)
